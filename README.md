@@ -14,7 +14,9 @@ Ao longo de algumas semanas foram abordados os Temas de Análise exploratória e
 
 # Desafio 1 - Frequências e medidas
 Nesse desafio recebemos uma base de dados sobre a performance de estudantes em provas. A base pode ser acessada pelo Kaggle: 
+
 [Base de Dados](https://www.kaggle.com/spscientist/students-performance-in-exams).
+
 Realizamos uma análise exploratória dos dados, procurando entender mais sobre o perfil dos alunos e as suas notas.
 
 # Desafio 2 - Probabilidade e Amostragem
