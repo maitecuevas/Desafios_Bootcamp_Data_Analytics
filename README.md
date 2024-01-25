@@ -1,12 +1,12 @@
 # Desafios Bootcamp Data Analytics
-O repositório contém a junção de cinco desafios desenvolvidos pela Squad Grace Hopper durante o Bootcamp de Data Analytics da WomakerCode.
-Ao longo de algumas semanas foram abordados os Temas de Análise exploratória em diferentes bases de dados e desenvolvimento de Modelos Regressivos. 
+O repositório contém a junção de cinco desafios desenvolvidos pela Squad Grace Hopper durante o Bootcamp de Data Analytics da WomakersCode.
+Ao longo de algumas semanas foram realizadas Análise exploratória em diferentes bases de dados e desenvolvimento de Modelos Regressivos. 
 
 Os desafios foram desenvolvidos utilizando linguagem Python e a plataforma Google Colab.
 
 Abaixo segue a citação das integrantes da equipe, bem como mais informações sobre cada desafio.
 
-# Integrantes da squad Grace Hopper
+# Integrantes da Squad Grace Hopper
 * Aline Alvino
 * Bianca Sordi
 * Maitê S. Cuevas
